@@ -1,4 +1,6 @@
 import datetime
 
 print(dir(datetime))
-print(__doc__(datetime))
+print ("my namw is dibyajyoti")
+print("currently i am learning python....")
+
